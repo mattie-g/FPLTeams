@@ -1,0 +1,226 @@
+[
+    {
+        "lad_name": "George",
+        "transfer_count": 0,
+        "team": {
+            "gk": {
+                "201": "Henderson"
+            },
+            "df": {
+                "399": "Hall",
+                "311": "Alexander-Arnold",
+                "3": "Gabriel"
+            },
+            "mf": {
+                "398": "Gordon",
+                "328": "M.Salah",
+                "182": "Palmer",
+                "366": "B.Fernandes",
+                "54": "Rogers"
+            },
+            "fw": {
+                "447": "Wood",
+                "401": "Isak"
+            },
+            "sub": {
+                "304": "Stolarczyk",
+                "6": "J.Timber",
+                "129": "João Pedro",
+                "270": "Greaves"
+            }
+        },
+        "captain": "Isak"
+    },
+    {
+        "lad_name": "Adam",
+        "transfer_count": 3,
+        "team": {
+            "gk": {
+                "15": "Raya"
+            },
+            "df": {
+                "311": "Alexander-Arnold",
+                "3": "Gabriel",
+                "211": "Muñoz"
+            },
+            "mf": {
+                "398": "Gordon",
+                "182": "Palmer",
+                "328": "M.Salah",
+                "54": "Rogers",
+                "366": "B.Fernandes"
+            },
+            "fw": {
+                "401": "Isak",
+                "447": "Wood"
+            },
+            "sub": {
+                "308": "Ward",
+                "129": "João Pedro",
+                "191": "Andersen",
+                "270": "Greaves"
+            }
+        },
+        "captain": "Palmer"
+    },
+    {
+        "lad_name": "Matt",
+        "transfer_count": 4,
+        "team": {
+            "gk": {
+                "15": "Raya"
+            },
+            "df": {
+                "255": "Robinson",
+                "3": "Gabriel",
+                "339": "Virgil"
+            },
+            "mf": {
+                "182": "Palmer",
+                "168": "Enzo",
+                "328": "M.Salah",
+                "327": "Luis Díaz"
+            },
+            "fw": {
+                "401": "Isak",
+                "447": "Wood",
+                "180": "N.Jackson"
+            },
+            "sub": {
+                "445": "Turner",
+                "70": "Kerkez",
+                "309": "Winks",
+                "630": "O'Shea"
+            }
+        },
+        "captain": "M.Salah"
+    },
+    {
+        "lad_name": "Ashbourne",
+        "transfer_count": 3,
+        "team": {
+            "gk": {
+                "15": "Raya"
+            },
+            "df": {
+                "6": "J.Timber",
+                "18": "Saliba",
+                "162": "Colwill"
+            },
+            "mf": {
+                "328": "M.Salah",
+                "345": "De Bruyne",
+                "54": "Rogers",
+                "182": "Palmer"
+            },
+            "fw": {
+                "129": "João Pedro",
+                "401": "Isak",
+                "180": "N.Jackson"
+            },
+            "sub": {
+                "109": "Valdimarsson",
+                "399": "Hall",
+                "309": "Winks",
+                "291": "Faes"
+            }
+        },
+        "captain": "M.Salah"
+    },
+    {
+        "lad_name": "Gaz",
+        "transfer_count": 0,
+        "team": {
+            "gk": {
+                "443": "Sels"
+            },
+            "df": {
+                "3": "Gabriel",
+                "70": "Kerkez",
+                "399": "Hall",
+                "270": "Greaves"
+            },
+            "mf": {
+                "585": "I.Sarr",
+                "571": "Savinho",
+                "182": "Palmer",
+                "328": "M.Salah"
+            },
+            "fw": {
+                "401": "Isak",
+                "351": "Haaland"
+            },
+            "sub": {
+                "308": "Ward",
+                "289": "Daka",
+                "309": "Winks",
+                "455": "Bednarek"
+            }
+        },
+        "captain": "Haaland"
+    },
+    {
+        "lad_name": "Rothwell",
+        "transfer_count": 3,
+        "team": {
+            "gk": {
+                "513": "Areola"
+            },
+            "df": {
+                "18": "Saliba",
+                "3": "Gabriel",
+                "311": "Alexander-Arnold",
+                "594": "Mazraoui"
+            },
+            "mf": {
+                "327": "Luis Díaz",
+                "182": "Palmer",
+                "328": "M.Salah"
+            },
+            "fw": {
+                "58": "Watkins",
+                "401": "Isak",
+                "129": "João Pedro"
+            },
+            "sub": {
+                "521": "Fabianski",
+                "247": "Iwobi",
+                "481": "Bergvall",
+                "50": "Nedeljkovic"
+            }
+        },
+        "captain": "Isak"
+    },
+    {
+        "lad_name": "Butler",
+        "transfer_count": 0,
+        "team": {
+            "gk": {
+                "15": "Raya"
+            },
+            "df": {
+                "399": "Hall",
+                "211": "Muñoz",
+                "3": "Gabriel"
+            },
+            "mf": {
+                "182": "Palmer",
+                "328": "M.Salah",
+                "398": "Gordon",
+                "327": "Luis Díaz"
+            },
+            "fw": {
+                "58": "Watkins",
+                "82": "Solanke",
+                "401": "Isak"
+            },
+            "sub": {
+                "536": "Bentley",
+                "355": "Lewis",
+                "54": "Rogers",
+                "291": "Faes"
+            }
+        },
+        "captain": "M.Salah"
+    }
+]

@@ -1,0 +1,613 @@
+[
+    {
+        "home_name": "Leicester",
+        "home_stats": {
+            "Goals scored": {},
+            "Assists": {},
+            "Penalties saved": {},
+            "Penalties missed": {},
+            "Yellow cards": {
+                "B.Soumar\u00e9": 1,
+                "El Khannouss": 1
+            },
+            "Red Cards": {},
+            "Saves": {
+                "Stolarczyk": 3
+            },
+            "Bonus": {},
+            "Bonus Points System": {
+                "Mavididi": 20,
+                "Buonanotte": 12,
+                "Winks": 12,
+                "B.Soumar\u00e9": 11,
+                "El Khannouss": 11
+            }
+        },
+        "away_name": "Man City",
+        "away_stats": {
+            "Goals scored": {
+                "Haaland": 1,
+                "S\u00e1vio": 1
+            },
+            "Assists": {
+                "Foden": 1,
+                "S\u00e1vio": 1
+            },
+            "Penalties saved": {},
+            "Penalties missed": {},
+            "Yellow cards": {
+                "Ortega Moreno": 1
+            },
+            "Red Cards": {},
+            "Saves": {
+                "Ortega Moreno": 3
+            },
+            "Bonus": {
+                "S\u00e1vio": 3,
+                "Haaland": 2,
+                "Akanji": 1
+            },
+            "Bonus Points System": {
+                "S\u00e1vio": 3,
+                "Haaland": 8,
+                "Akanji": 0,
+                "Lewis": 8,
+                "Ak\u00e9": 5
+            }
+        }
+    },
+    {
+        "home_name": "Crystal Palace",
+        "home_stats": {
+            "Goals scored": {
+                "Chalobah": 1,
+                "Eze": 1
+            },
+            "Assists": {
+                "Hughes": 1
+            },
+            "Penalties saved": {},
+            "Penalties missed": {},
+            "Yellow cards": {
+                "Nketiah": 1,
+                "Hughes": 1
+            },
+            "Red Cards": {},
+            "Saves": {
+                "Henderson": 2
+            },
+            "Bonus": {
+                "Eze": 3,
+                "Chalobah": 2
+            },
+            "Bonus Points System": {
+                "Eze": 38,
+                "Chalobah": 29,
+                "Lerma": 20,
+                "Hughes": 19,
+                "Mitchell": 16
+            }
+        },
+        "away_name": "Southampton",
+        "away_stats": {
+            "Goals scored": {
+                "Dibling": 1
+            },
+            "Assists": {
+                "Armstrong": 1
+            },
+            "Penalties saved": {},
+            "Penalties missed": {},
+            "Yellow cards": {
+                "Bednarek": 1,
+                "Harwood-Bellis": 1,
+                "M.Fernandes": 1
+            },
+            "Red Cards": {},
+            "Saves": {
+                "Ramsdale": 8
+            },
+            "Bonus": {
+                "Dibling": 1
+            },
+            "Bonus Points System": {
+                "Dibling": 4,
+                "Armstrong": 9,
+                "Ramsdale": 7,
+                "Walker-Peters": 0,
+                "Bree": 9
+            }
+        }
+    },
+    {
+        "home_name": "Everton",
+        "home_stats": {
+            "Goals scored": {},
+            "Assists": {},
+            "Penalties saved": {},
+            "Penalties missed": {},
+            "Yellow cards": {
+                "Branthwaite": 1,
+                "Gana": 1,
+                "Pickford": 1,
+                "Tarkowski": 1
+            },
+            "Red Cards": {},
+            "Saves": {
+                "Pickford": 5
+            },
+            "Bonus": {},
+            "Bonus Points System": {
+                "Gana": 15,
+                "Mangala": 15,
+                "Ndiaye": 14,
+                "A.Doucoure": 10,
+                "Pickford": 9
+            }
+        },
+        "away_name": "Nott'm Forest",
+        "away_stats": {
+            "Goals scored": {
+                "Gibbs-White": 1,
+                "Wood": 1
+            },
+            "Assists": {
+                "Elanga": 1,
+                "Wood": 1
+            },
+            "Penalties saved": {},
+            "Penalties missed": {},
+            "Yellow cards": {
+                "Boly": 1
+            },
+            "Red Cards": {},
+            "Saves": {
+                "Sels": 2
+            },
+            "Bonus": {
+                "Wood": 3,
+                "Aina": 2,
+                "Gibbs-White": 2,
+                "Morato": 2
+            },
+            "Bonus Points System": {
+                "Wood": 8,
+                "Aina": 8,
+                "Gibbs-White": 8,
+                "Morato": 8,
+                "N.Williams": 7
+            }
+        }
+    },
+    {
+        "home_name": "Fulham",
+        "home_stats": {
+            "Goals scored": {
+                "Ra\u00fal": 1,
+                "Wilson": 1
+            },
+            "Assists": {
+                "Andreas": 1,
+                "Robinson": 1
+            },
+            "Penalties saved": {},
+            "Penalties missed": {},
+            "Yellow cards": {
+                "Andersen": 1
+            },
+            "Red Cards": {},
+            "Saves": {
+                "Leno": 6
+            },
+            "Bonus": {
+                "Ra\u00fal": 3,
+                "Wilson": 1
+            },
+            "Bonus Points System": {
+                "Ra\u00fal": 38,
+                "Wilson": 31,
+                "Andreas": 22,
+                "Leno": 20,
+                "Robinson": 20
+            }
+        },
+        "away_name": "Bournemouth",
+        "away_stats": {
+            "Goals scored": {
+                "O.Dango": 1,
+                "Evanilson": 1
+            },
+            "Assists": {
+                "Hill": 1,
+                "Semenyo": 1
+            },
+            "Penalties saved": {},
+            "Penalties missed": {},
+            "Yellow cards": {
+                "Christie": 1,
+                "Enes \u00dcnal": 1,
+                "Philip": 1
+            },
+            "Red Cards": {},
+            "Saves": {
+                "Arrizabalaga": 4
+            },
+            "Bonus": {
+                "Evanilson": 2
+            },
+            "Bonus Points System": {
+                "Evanilson": 2,
+                "O.Dango": 8,
+                "Semenyo": 9,
+                "Cook": 7,
+                "Hill": 5
+            }
+        }
+    },
+    {
+        "home_name": "Spurs",
+        "home_stats": {
+            "Goals scored": {
+                "Bentancur": 1,
+                "Johnson": 1
+            },
+            "Assists": {
+                "Kulusevski": 1,
+                "Pedro Porro": 1
+            },
+            "Penalties saved": {},
+            "Penalties missed": {
+                "Son": 1
+            },
+            "Yellow cards": {
+                "Bentancur": 1
+            },
+            "Red Cards": {},
+            "Saves": {
+                "Forster": 1
+            },
+            "Bonus": {
+                "Johnson": 2
+            },
+            "Bonus Points System": {
+                "Johnson": 30,
+                "Bentancur": 22,
+                "Kulusevski": 19,
+                "Pedro Porro": 19,
+                "Gray": 17
+            }
+        },
+        "away_name": "Wolves",
+        "away_stats": {
+            "Goals scored": {
+                "Hee Chan": 1,
+                "Strand Larsen": 1
+            },
+            "Assists": {
+                "A\u00eft-Nouri": 2
+            },
+            "Penalties saved": {
+                "Jos\u00e9 S\u00e1": 1
+            },
+            "Penalties missed": {},
+            "Yellow cards": {
+                "Bellegarde": 1,
+                "N.Semedo": 1
+            },
+            "Red Cards": {},
+            "Saves": {
+                "Jos\u00e9 S\u00e1": 1
+            },
+            "Bonus": {
+                "A\u00eft-Nouri": 3,
+                "Strand Larsen": 1
+            },
+            "Bonus Points System": {
+                "A\u00eft-Nouri": 1,
+                "Strand Larsen": 8,
+                "Hee Chan": 4,
+                "J.Gomes": 3,
+                "Jos\u00e9 S\u00e1": 2
+            }
+        }
+    },
+    {
+        "home_name": "West Ham",
+        "home_stats": {
+            "Goals scored": {},
+            "Assists": {},
+            "Penalties saved": {},
+            "Penalties missed": {},
+            "Yellow cards": {},
+            "Red Cards": {},
+            "Saves": {
+                "Areola": 8
+            },
+            "Bonus": {},
+            "Bonus Points System": {
+                "L.Paquet\u00e1": 13,
+                "C.Soler": 10,
+                "Areola": 9,
+                "F\u00fcllkrug": 6,
+                "\u00c1lvarez": 3
+            }
+        },
+        "away_name": "Liverpool",
+        "away_stats": {
+            "Goals scored": {
+                "Alexander-Arnold": 1,
+                "Diogo J.": 1,
+                "Gakpo": 1,
+                "Luis D\u00edaz": 1,
+                "M.Salah": 1
+            },
+            "Assists": {
+                "M.Salah": 2,
+                "Gravenberch": 1,
+                "Jones": 1
+            },
+            "Penalties saved": {},
+            "Penalties missed": {},
+            "Yellow cards": {},
+            "Red Cards": {},
+            "Saves": {
+                "A.Becker": 1
+            },
+            "Bonus": {
+                "Alexander-Arnold": 3,
+                "M.Salah": 2,
+                "Luis D\u00edaz": 1
+            },
+            "Bonus Points System": {
+                "Alexander-Arnold": 1,
+                "M.Salah": 0,
+                "Luis D\u00edaz": 4,
+                "Virgil": 2,
+                "Diogo J.": 1
+            }
+        }
+    },
+    {
+        "home_name": "Aston Villa",
+        "home_stats": {
+            "Goals scored": {
+                "Rogers": 1,
+                "Watkins": 1
+            },
+            "Assists": {
+                "Rogers": 1,
+                "Watkins": 1
+            },
+            "Penalties saved": {},
+            "Penalties missed": {},
+            "Yellow cards": {
+                "Mings": 1,
+                "Rogers": 1
+            },
+            "Red Cards": {},
+            "Saves": {
+                "Martinez": 3
+            },
+            "Bonus": {
+                "Watkins": 3,
+                "Rogers": 2
+            },
+            "Bonus Points System": {
+                "Watkins": 41,
+                "Rogers": 34,
+                "Bailey": 21,
+                "McGinn": 21,
+                "Tielemans": 19
+            }
+        },
+        "away_name": "Brighton",
+        "away_stats": {
+            "Goals scored": {
+                "Adingra": 1,
+                "Lamptey": 1
+            },
+            "Assists": {
+                "Jo\u00e3o Pedro": 2
+            },
+            "Penalties saved": {},
+            "Penalties missed": {},
+            "Yellow cards": {
+                "Baleba": 1,
+                "Igor": 1,
+                "Ayari": 1
+            },
+            "Red Cards": {},
+            "Saves": {
+                "Verbruggen": 3
+            },
+            "Bonus": {
+                "Jo\u00e3o Pedro": 1
+            },
+            "Bonus Points System": {
+                "Jo\u00e3o Pedro": 8,
+                "Adingra": 4,
+                "Dunk": 4,
+                "Lamptey": 3,
+                "Verbruggen": 0
+            }
+        }
+    },
+    {
+        "home_name": "Ipswich",
+        "home_stats": {
+            "Goals scored": {
+                "Delap": 1,
+                "Hutchinson": 1
+            },
+            "Assists": {
+                "Delap": 1
+            },
+            "Penalties saved": {},
+            "Penalties missed": {},
+            "Yellow cards": {
+                "Davis": 1,
+                "Delap": 1,
+                "Morsy": 1,
+                "O'Shea": 1
+            },
+            "Red Cards": {},
+            "Saves": {
+                "Walton": 4
+            },
+            "Bonus": {
+                "Delap": 3,
+                "Walton": 2,
+                "Hutchinson": 1
+            },
+            "Bonus Points System": {
+                "Delap": 46,
+                "Walton": 30,
+                "Hutchinson": 28,
+                "Woolfenden": 22,
+                "O'Shea": 22
+            }
+        },
+        "away_name": "Chelsea",
+        "away_stats": {
+            "Goals scored": {},
+            "Assists": {},
+            "Penalties saved": {},
+            "Penalties missed": {},
+            "Yellow cards": {
+                "Caicedo": 1,
+                "Colwill": 1,
+                "Enzo": 1,
+                "Gusto": 1
+            },
+            "Red Cards": {},
+            "Saves": {
+                "J\u00f8rgensen": 4
+            },
+            "Bonus": {},
+            "Bonus Points System": {
+                "Palmer": 8,
+                "Enzo": 3,
+                "Caicedo": 1,
+                "Cucurella": 6,
+                "Colwill": 5
+            }
+        }
+    },
+    {
+        "home_name": "Man Utd",
+        "home_stats": {
+            "Goals scored": {},
+            "Assists": {},
+            "Penalties saved": {},
+            "Penalties missed": {},
+            "Yellow cards": {
+                "Martinez": 1
+            },
+            "Red Cards": {},
+            "Saves": {
+                "Onana": 2
+            },
+            "Bonus": {},
+            "Bonus Points System": {
+                "Eriksen": 15,
+                "Casemiro": 14,
+                "Mainoo": 12,
+                "Amad": 8,
+                "Maguire": 8
+            }
+        },
+        "away_name": "Newcastle",
+        "away_stats": {
+            "Goals scored": {
+                "Isak": 1,
+                "Joelinton": 1
+            },
+            "Assists": {
+                "Gordon": 1,
+                "Hall": 1
+            },
+            "Penalties saved": {},
+            "Penalties missed": {},
+            "Yellow cards": {
+                "Sch\u00e4r": 1
+            },
+            "Red Cards": {},
+            "Saves": {},
+            "Bonus": {
+                "Hall": 3,
+                "Joelinton": 2,
+                "Burn": 1,
+                "Isak": 1
+            },
+            "Bonus Points System": {
+                "Hall": 4,
+                "Joelinton": 2,
+                "Burn": 1,
+                "Isak": 1,
+                "Sch\u00e4r": 8
+            }
+        }
+    },
+    {
+        "home_name": "Brentford",
+        "home_stats": {
+            "Goals scored": {
+                "Mbeumo": 1
+            },
+            "Assists": {
+                "Damsgaard": 1
+            },
+            "Penalties saved": {},
+            "Penalties missed": {},
+            "Yellow cards": {
+                "N\u00f8rgaard": 1
+            },
+            "Red Cards": {},
+            "Saves": {
+                "Flekken": 1
+            },
+            "Bonus": {},
+            "Bonus Points System": {
+                "Mbeumo": 31,
+                "Damsgaard": 23,
+                "Lewis-Potter": 17,
+                "Yarmoliuk": 16,
+                "Collins": 7
+            }
+        },
+        "away_name": "Arsenal",
+        "away_stats": {
+            "Goals scored": {
+                "G.Jesus": 1,
+                "Martinelli": 1,
+                "Merino": 1
+            },
+            "Assists": {
+                "G.Jesus": 1,
+                "Thomas": 1
+            },
+            "Penalties saved": {},
+            "Penalties missed": {},
+            "Yellow cards": {
+                "J.Timber": 1,
+                "Calafiori": 1
+            },
+            "Red Cards": {},
+            "Saves": {
+                "Raya": 1
+            },
+            "Bonus": {
+                "G.Jesus": 3,
+                "Martinelli": 2,
+                "Merino": 1
+            },
+            "Bonus Points System": {
+                "G.Jesus": 3,
+                "Martinelli": 5,
+                "Merino": 2,
+                "Thomas": 6,
+                "\u00d8degaard": 5
+            }
+        }
+    }
+]
